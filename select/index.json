@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "この街",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T10:46:11.987642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "この街",
+      "artist": "Chisato Moritaka",
+      "has_synced": true,
+      "path": "select/01_この街_Chisato_Moritaka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "この街",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/02_この街_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "この街 (ザ・森高ヴァージョン)",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/03_この街_(ザ・森高ヴァージョン)_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "この街 (Home Mix)",
+      "artist": "森高千里",
+      "has_synced": false,
+      "path": "select/04_この街_(Home_Mix)_森高千里.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "この街",
+      "artist": "森高千里",
+      "has_synced": true,
+      "path": "select/05_この街_森高千里.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "この街 (Home Mix)",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/06_この街_(Home_Mix)_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この街",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_この街_NEE.txt"
+    }
+  ]
+}
